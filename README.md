@@ -1,6 +1,7 @@
-<div align="center">
-    <img href="https://projecterror.dev" width="150" src="https://i.tasoagc.dev/c1pD" alt="Material-UI logo" />
-</div>
+# This is not a working inventory and probably never will be!
+### This is simply a recreation of the Nopixel Inventory UI. I have used the template provided by Project Error, everything else I've written myself from scratch.
+#### Original Boilerplate instructions below
+-----
 <h1 align="center">FiveM React and Lua Boilerplate</h1>
 
 <div align="center">
@@ -213,4 +214,4 @@ yarn build
 
 ## Additional Notes
 
-Need further support? Join our [Discord](https://discord.com/invite/HYwBjTbAY5)!
+Need further support? Join our [Discord](https://discord.com/invite/HYwBjTbAY5)! (Project Error Discord for template support)
